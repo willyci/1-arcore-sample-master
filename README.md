@@ -1,6 +1,9 @@
-my setup,
+my setup:
+
 Windows 10 pro insider preview 64-bit 
+
 VS community 2017 Version 15.9.8
+
 LG G6 Android 8.0 (Oreo)
 
 
