@@ -1,3 +1,10 @@
+my setup,
+Windows 10 pro insider preview 64-bit 
+VS community 2017 Version 15.9.8
+LG G6 Android 8.0 (Oreo)
+
+
+
 ### AR Core Sample for Xamarin Android
 
 Originally fetched from https://github.com/xamarin/XamarinComponents/tree/master/Android/ARCore (based on the blog post at https://blog.xamarin.com/augmented-reality-xamarin-android-arcore). 
