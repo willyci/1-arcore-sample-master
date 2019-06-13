@@ -6,6 +6,8 @@ VS community 2017 Version 15.9.8
 
 LG G6 Android 8.0 (Oreo)
 
+Arcore 1.8 https://github.com/google-ar/arcore-android-sdk/releases/tag/v1.8.0
+
 
 
 ### AR Core Sample for Xamarin Android
